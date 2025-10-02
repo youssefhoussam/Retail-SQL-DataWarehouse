@@ -55,6 +55,18 @@ The repository includes queries for:
   - Data population
   - Analytical queries
   - Performance optimization
+## 📊 Power BI Dashboard
+
+### Main Dashboard
+![Dashboard Overview](images/dashboard_overview.png)
+
+### Features Demonstrated:
+- Revenue trend analysis over time
+- Top products identification  
+- Sales distribution by category
+- Geographic sales mapping
+- Interactive filtering by year and country
+
 
 ## 👨‍💻 Author
-Your Name
+Youssef HOUSSAM
