@@ -4,7 +4,7 @@
 A complete data warehouse implementation using star schema design for the Northwind database. This project demonstrates ETL processes, dimensional modeling, and analytical querying.
 
 ## 🏗️ Schema Design
-![Star Schema Diagram](star_schema.png)
+
 
 ## 📁 Database Structure
 
@@ -58,7 +58,6 @@ The repository includes queries for:
 ## 📊 Power BI Dashboard
 
 ### Main Dashboard
-![Dashboard Overview](images/dashboard_overview.png)
 
 ### Features Demonstrated:
 - Revenue trend analysis over time
